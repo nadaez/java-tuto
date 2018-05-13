@@ -5,4 +5,8 @@ public class Test {
 		System.out.println("Hello");
 		System.out.println("Another develop add this line");
 	}
+	
+	public void method() {
+		
+	}
 }
